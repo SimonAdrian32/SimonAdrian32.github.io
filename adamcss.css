@@ -14,12 +14,6 @@ body {
     padding: 0px;}
 }
 
-@media screen and (max-width: 800px) {
-  #main {
-    margin-left: 50px;
-    margin-right: 50px;}
-}
-
 #nav {
   font-family: Arial, sans-serif;
   margin-left: 20px;
@@ -36,7 +30,8 @@ body {
   padding-left:100px;
   padding-right:100px;
   max-width: 1000px;
-  text-align: center;}
+  text-align: center;
+  border: 2px solid blue;}
 	
 img {
   margin: 0 15% 0 15%;
