@@ -7,6 +7,11 @@ body {
   margin-left: 100px; margin-right: 100px;
   border: 5px solid black;}
 
+@media scrren and (max-width: 400px) {
+  #main {
+    margin: 0px;}
+}
+
 #nav {
   font-family: Arial, sans-serif;
   margin-left: 20px;
@@ -20,10 +25,9 @@ body {
     margin-bottom: 5px;}
 
 #indledning {
-  margin-left:50px;
-  margin-right:50px;
+  margin-left:auto;
+  margin-right:auto;
   max-width: 1000px;
-  min-width: 100px
   text-align: center;}
 	
 img {
