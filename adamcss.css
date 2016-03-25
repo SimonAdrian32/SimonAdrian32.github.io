@@ -32,6 +32,9 @@ body {
   max-width: 1000px;
   text-align: center;
   border: 2px solid blue;}
+
+center {
+  padding: 0 20px;}
 	
 img {
   margin: 0 15% 0 15%;
