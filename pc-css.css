@@ -48,7 +48,7 @@ img {
   text-align: center;
   padding: 10px;
   margin: 0px;
-  background-color: yellow;
+  background-color: #ffff66;
   width: 100%;
   border-width: 0px 0px 5px 0px;
   border-style: solid;
@@ -56,7 +56,7 @@ img {
   #header:active {
     color: black;}
   #header:hover {
-    background-color: #ffff66;}
+    background-color: yellow;}
 
 #credits {
   color: #bfbfbf;
