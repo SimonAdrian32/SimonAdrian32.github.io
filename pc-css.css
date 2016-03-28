@@ -19,8 +19,9 @@ body {
   margin-left: 20px;
   width: 400px;
   border: 1px solid grey;
-  background-color: #efefef;}
-  #contents {
+  background-color: #efefef;
+  float: left;}
+  #indholsfortegnelse {
     text-align: center;}
   dt, dd {
     text-indent: 10px;
