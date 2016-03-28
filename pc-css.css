@@ -16,7 +16,7 @@ body {
 
 #nav {
   font-family: Arial, sans-serif;
-  margin-left: 20px;
+  margin: 0px 20px 0px 20px;
   width: 400px;
   border: 1px solid grey;
   background-color: #efefef;
