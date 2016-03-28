@@ -1,0 +1,65 @@
+body {
+  font-family: Georgia, Times, serif;
+  background-color: gray;}
+
+#main {
+  background-color: white;
+  margin-left: 100px; margin-right: 100px;
+  border: 5px solid black;}
+
+@media screen and (max-width: 400px) {
+  #main {
+    margin: 0px;}
+  #indledning {
+    padding: 0px;}
+}
+
+#nav {
+  font-family: Arial, sans-serif;
+  margin-left: 20px;
+  width: 400px;
+  border: 1px solid grey;
+  background-color: #efefef;}
+  #contents {
+    text-align: center;}
+  dt, dd {
+    text-indent: 10px;
+    margin-bottom: 5px;}
+
+#indledning {
+  padding: 0 20px;
+  max-width: 1000px;
+  text-align: center;}
+	
+img {
+  margin: 0 15% 0 15%;
+  width: 70%;}
+
+#header {
+  color: black;
+  text-decoration: none;
+  font-family: Impact;
+  font-size: 23pt;
+  letter-spacing: 0.2em;
+  font-weight: bold;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  text-align: center;
+  padding: 10px;
+  margin: 0px;
+  background-color: yellow;
+  width: 100%;
+  border-width: 0px 0px 5px 0px;
+  border-style: solid;
+  border-color: black;}
+  #header:active {
+    color: black;}
+  #header:hover {
+    background-color: #ffff66;}
+
+#credits {
+  color: #bfbfbf;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;}
